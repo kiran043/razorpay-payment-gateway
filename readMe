@@ -1,0 +1,22 @@
+// integration steps
+
+1.Main folder (Razorpay paymenet integration)
+2.sub folder (frontend and backend)
+3. create first react app with (npm create vite@latest)
+4. npm run dev
+5. create product card with buy now button
+
+
+//backend
+1.npm init
+2.create file (index.js)
+3. in package.js add ("type": "module") // by doing this we can use es module in this
+4. npm i express
+5. npm i mongoose dotenv cors
+6. install mongodb in you local and mongodb compass 
+7. connect url in fronend 
+8. create  schema for payment 
+9.create payemnt route
+
+//youtube link
+https://www.youtube.com/watch?v=Buk_INwW0vQ&t=32s
